@@ -1,0 +1,2 @@
+*.bank filter=lfs diff=lfs merge=lfs -text
+RWSM[[:space:]]V[[:space:]]DLC/** filter=lfs diff=lfs merge=lfs -text
